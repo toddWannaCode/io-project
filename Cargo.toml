@@ -1,0 +1,6 @@
+[package]
+name = "io_project"
+version = "0.1.0"
+authors = ["Sayantan Talukder <toddwannacode@gmail.com>"]
+
+[dependencies]
